@@ -56,9 +56,3 @@ print("your burst dmg is= ",burst_2)
 
 
 
-x=(-0.000505)*em
-import math
-
-math.exp( x )
-
-b=math.exp(x)*0.189266831*em
